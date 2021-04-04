@@ -13,4 +13,4 @@ console.log(typeof airline);
 let typeAirline=prompt('which is the best type of airline');
 console.log(typeAirline);
 console.log(typeof typeAirline);
-alert('welcome to our site' + 'your name is'  + fullName + 'your age is' +  age + 'your favourite airline company' + airline + 'your best type of airline' + typeAirline )
+alert('welcome to our site'   +   'your name is'    +   fullName   +   'your age is'   +   age   +  'your favourite airline company'   +   airline   +  'your best type of airline'  +  typeAirline  )
